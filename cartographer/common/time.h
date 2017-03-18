@@ -17,6 +17,7 @@
 #ifndef CARTOGRAPHER_COMMON_TIME_H_
 #define CARTOGRAPHER_COMMON_TIME_H_
 
+#include <ctime>
 #include <chrono>
 #include <ostream>
 #include <ratio>
